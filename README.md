@@ -87,5 +87,5 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e dis
 Feito com 💙 por **Lucas B. de Lima**.
 
 Se quiser ver mais projetos, acesse meu portfólio:
-👉<a href="github.com/lucasb2b">Meu Portfólio no GitHub</a>
-👉<a href="devlucas.xyz">Meu site pessoal</a>
+👉<a href="https://github.com/lucasb2b" target="_blank">Meu Portfólio no GitHub</a>
+👉<a href="https://devlucas.xyz" target="_blank">Meu site pessoal</a>

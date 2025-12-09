@@ -66,7 +66,7 @@ Acesse em: `http://localhost:3000`
 
 Este projeto está hospedado gratuitamente na **Vercel**.
 
-🔗 Acesse aqui: _adicione o link do seu projeto_
+🔗 Acesse aqui: <a href="https://donate-crypto-eta.vercel.app/">Donate Crypto</a>
 
 ---
 
@@ -87,4 +87,5 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e dis
 Feito com 💙 por **Lucas B. de Lima**.
 
 Se quiser ver mais projetos, acesse meu portfólio:
-👉 <a href="https://donate-crypto-eta.vercel.app/">Donate Crypto</a>
+👉<a href="github.com/lucasb2b">Meu Portfólio no GitHub</a>
+👉<a href="devlucas.xyz">Meu site pessoal</a>

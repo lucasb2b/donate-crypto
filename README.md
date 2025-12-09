@@ -87,4 +87,4 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e dis
 Feito com 💙 por **Lucas B. de Lima**.
 
 Se quiser ver mais projetos, acesse meu portfólio:
-👉 _adicione seu link aqui_
+👉 <a href="https://donate-crypto-eta.vercel.app/">Donate Crypto</a>

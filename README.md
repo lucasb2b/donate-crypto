@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Meu Projeto NodeJS/Next.js/React/Solidity - Crypto
 
-## Getting Started
+Bem-vindo ao repositório deste projeto cryptoque foi desenvolvido com **NodeJS**, **ReactJS**, **Next.js**, **Solidity**! Este README foi criado para apresentar o projeto de forma clara, organizada e visualmente agradável.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 Sobre o Projeto
+
+Este projeto foi desenvolvido utilizando **NodeJS/React/Next.js/Solidity** com foco em mostrar como funcionam aplicações e contratos inteligentes que interagem com a blockchain, e como manipular carteiras baseadas na EVM(Ethereum Virtual Machine)
+
+Aqui você encontra:
+
+- 🪙 Contrato Inteligente publicado na blockchain
+- 🧾 Manipulação de carteira EVM usando a metamask
+- ⚡ Renderização híbrida (SSR/SSG)
+- 🧩 Componentes reutilizáveis
+- 🌎 Deploy automático com Vercel
+
+---
+
+## 📁 Estrutura do Projeto
+
+```
+📦 meu-projeto
+┣ 📂 .next
+┣ 📂 node_modules
+┣ 📂 public
+┣ 📂 smartcontract
+┣ 📂 src
+┣ 📄 .gitignore
+┣ 📄 jsconfig.json
+┣ 📄 next.config.mjs
+┣ 📄 package-lock.json
+┣ 📄 package.json
+┗ 📄 README.md
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🛠️ Tecnologias Utilizadas
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Solidity em Rede Ploygon**
+- **Next.js**
+- **React**
+- **JavaScript**
+- **Bootstrap 5**
+- **Web3.js**
+- **Vercel** para deploy
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## ▶️ Como Executar Localmente
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Certifique-se de ter o **Node.js 24+** instalado.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+npm install
+npm run dev
+```
 
-## Deploy on Vercel
+Acesse em: `http://localhost:3000`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🌐 Deploy
+
+Este projeto está hospedado gratuitamente na **Vercel**.
+
+🔗 Acesse aqui: _adicione o link do seu projeto_
+
+---
+
+## 🤝 Contribuição
+
+Se quiser sugerir melhorias ou relatar problemas, fique à vontade para abrir uma **issue** ou enviar um **pull request**.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.
+
+---
+
+## 👨‍💻 Autor
+
+Feito com 💙 por **Lucas B. de Lima**.
+
+Se quiser ver mais projetos, acesse meu portfólio:
+👉 _adicione seu link aqui_
